@@ -1,6 +1,6 @@
 # CircleCI Demos: Workflows
 
-Demo for Loanpal
+Demo for Loanpal: how testing workflows work
 
 * [Parallel Jobs](https://github.com/CircleCI-Public/circleci-demo-workflows/tree/parallel-jobs) | [Example workflows on this branch](https://circleci.com/gh/CircleCI-Public/workflows/circleci-demo-workflows/tree/parallel-jobs)
 * [Sequential Job / Branch-Level](https://github.com/CircleCI-Public/circleci-demo-workflows/tree/sequential-branch-filter) | [Example workflows on this branch](https://circleci.com/gh/CircleCI-Public/workflows/circleci-demo-workflows/tree/sequential-branch-filter)
